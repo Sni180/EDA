@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/24ad52c1-f4fd-41c2-ae76-68b922032a3c
+
 This project contains a Jupyter Notebook that performs Exploratory Data Analysis (EDA) on a dataset of FIFA player statistics. The analysis covers data ingestion, cleaning, feature engineering, and visualization of key player attributes and club performance.
 
 🎯 Project Goal
